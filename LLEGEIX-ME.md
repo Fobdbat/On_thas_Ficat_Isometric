@@ -23,14 +23,14 @@ En un o dos minuts ja és a `https://fobdbat.github.io/On-thas-ficat-aquesta-nit
 ## Com es juga
 
 - Toca la pantalla (o prem l'espai) quan el corredor arriba a l'anell blanc de cada gir.
-- A la fase del **Lluc** (palmes) no es gira: es toca **al ritme de les palmes** perquè salti les palanganes.
+- A la fase del **Lluc** (palmes) no es gira: es toca **al ritme de les palmes** perquè salti les palanganes. Les palanganes estan separades segons el ritme real de les palmes (curtes, mitjanes i llargues), així es veu què ve.
 - Cada fase la fa un músic: Quim, Gabriel, Andreu, Lluc, Pau i Roger. Entre fase i fase el següent surt del costat i agafa el relleu.
 - Si falles («Massa d'hora» o «Massa tard») tornes a començar la fase on eres, no tota la cançó.
 - Hi ha **Mode passeig** (sense errors, sense marcador) per mirar el barri i la cançó.
 
 ## Què es veu pel camí
 
-El barri s'ha dibuixat amb blocs: l'estació de la Sagrera, la Rambla amb la pluja, l'estàtua del colom, el vident, les havaneres, la sardana, l'estadi, la tangana, el port… Els rètols només porten noms de llocs. Els versos de la lletra surten en cartells a sobre del camí just abans que sonin, i a baix surt el vers que sona (es pot treure a la pausa amb «Lletra a sota»).
+El barri s'ha dibuixat amb blocs: l'estació de la Sagrera, la Rambla amb la pluja, l'estàtua del colom, el vident, les havaneres, la sardana, l'estadi, la tangana, el port… Els rètols només porten noms de llocs. Els versos de la lletra surten en cartells a la part baixa de la pantalla (lluny del corredor i dels girs que venen) just abans que sonin, i a sota de tot surt el vers que sona (es pot treure a la pausa amb «Lletra a sota»).
 
 Cada músic porta els seus detalls: la perilla i el cabell llarg del Pau, les arracades del Lluc, els rínxols de l'Andreu, el tupè del Quim amb les ulleres…
 
