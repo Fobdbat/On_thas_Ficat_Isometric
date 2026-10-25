@@ -30,7 +30,7 @@ En un o dos minuts ja és a `https://fobdbat.github.io/On-thas-ficat-aquesta-nit
 
 ## Què es veu pel camí
 
-El barri s'ha dibuixat amb blocs: l'estació de la Sagrera, la Rambla amb la pluja, l'estàtua del colom, el vident, les havaneres, la sardana, l'estadi, la tangana, el port… Els rètols només porten noms de llocs. Els versos de la lletra surten en cartells a la part baixa de la pantalla (lluny del corredor i dels girs que venen) just abans que sonin, i a sota de tot surt el vers que sona (es pot treure a la pausa amb «Lletra a sota»).
+El barri s'ha dibuixat amb blocs: l'estació de la Sagrera, la Rambla amb la pluja, el monument a Colom (a la riba del port, amb cartell «COLOM» il·luminat), el vident, les havaneres, la sardana, l'estadi, la tangana, el port… Els rètols només porten noms de llocs. Els versos de la lletra surten en cartells a la part baixa de la pantalla (lluny del corredor i dels girs que venen) just abans que sonin, i a sota de tot surt el vers que sona (es pot treure a la pausa amb «Lletra a sota»).
 
 Cada músic porta els seus detalls: la perilla i el cabell llarg del Pau, les arracades del Lluc, els rínxols de l'Andreu, el tupè del Quim amb les ulleres…
 
